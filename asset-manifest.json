@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pavel-havranek/React.git/static/css/main.fd5bea99.css",
+    "main.js": "/pavel-havranek/React.git/static/js/main.259076fc.js",
+    "index.html": "/pavel-havranek/React.git/index.html",
+    "main.fd5bea99.css.map": "/pavel-havranek/React.git/static/css/main.fd5bea99.css.map",
+    "main.259076fc.js.map": "/pavel-havranek/React.git/static/js/main.259076fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd5bea99.css",
+    "static/js/main.259076fc.js"
+  ]
+}
